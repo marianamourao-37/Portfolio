@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
 
-Recently, I've developed a great interest over Data Science, mostly ambitioning integrating projects directed to Health, having myself a Bachelor's degree in 
+Recently, I've developed a great interest in Data Science, mostly ambitioning integrating projects directed to Health, having myself a Bachelor's degree in 
 Biomedical Engineering. 
 
 In order to gain experience with Data Science Tools and Methodologies, I'm expousing myself to online courses and guided projects. 
