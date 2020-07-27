@@ -3,8 +3,9 @@
 Recently, I've developed a great interest in Data Science, mostly ambitioning integrating projects directed to Health, having myself a Bachelor's degree in 
 Biomedical Engineering. 
 
-In order to gain experience with Data Science Tools and Methodologies, I'm expousing myself to online courses and guided projects. 
-In the phase in which I am, I privilege learning through guided projects that value full participation in each stage of the project, giving an 
+In order to gain experience with Data Science Tools and Methodologies, I'm expousing myself to online courses and guided projects. Initially, I attended a general course of introduction to Computer Science - [Harvard University's 2020 CS50 - Introduction to Computer Science](https://cs50.harvard.edu/x/2020/) -, in order to revive and reinforce fundamental concepts of programming. Then, I opted for the famous specialization course in Deep Learning -  [Deep Learning Specialization offered by ia.deeplearning on Coursera](https://www.coursera.org/specializations/deep-learning) -, having reinforced some bases of neural networks previously taught in my bachelor course, as well as broaden the knowledge about them, with emphasis on several convex optimization algorithms, performance optimization methodologies of the models and structuring of machine learning projects. 
+
+These were very informative courses, but there was a lack of a practical component that involved active participation in the projects, being excessively guided, conditioning critical and creative thinking. In the phase in which I am, I privilege learning through guided projects that value full participation in each stage of the project, giving an 
 opportunity to explore critical and creative thinking. In this sense, the [DataQuest](https://www.dataquest.io/) platform was a major driver in the beginning of this 
 journey. 
 
@@ -12,6 +13,11 @@ At the moment, I just completed a project entirely developed by me - [Profitable
 having been guided by the DataQuest platform. 
 
 As more projects are developed, they'll be added to this repository.
+
+# My Path 
+
+1. CS50 - Introduction to Computer Science || [My repository](https://github.com/marianamourao-37/Harvard-CS50-Projects)
+2. Deep Learning Specialization || [My repository](https://github.com/marianamourao-37/Deep-Learning-ia.deeplearning-Specialization)
 
 # Projects
 
