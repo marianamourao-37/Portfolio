@@ -11,7 +11,7 @@ journey.
 At the moment, I just completed a project entirely developed by me - [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/marianamourao-37/Data-Science-Portfolio/blob/master/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb) -, 
 having been guided by the DataQuest platform. 
 
-As more projects will be developed, they'll be added to this repository.
+As more projects are developed, they'll be added to this repository.
 
 # Projects
 
