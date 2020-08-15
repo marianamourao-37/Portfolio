@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
 
-Recently, I've developed a great interest in Data Science, mostly ambitioning integrating projects directed to Health, having myself a Bachelor's degree in 
+Recently, I've developed a great interest in Data Science, mostly ambitioning to integrate projects directed to Health, having myself a Bachelor's degree in 
 Biomedical Engineering. 
 
 In order to gain experience with Data Science Tools and Methodologies, I'm expousing myself to online courses and guided projects. Initially, I attended an introduction course to Computer Science - [Harvard University's 2020 CS50 - Introduction to Computer Science](https://cs50.harvard.edu/x/2020/) -, in order to revive and reinforce fundamental concepts of programming. Then, I opted for the famous specialization course in Deep Learning -  [Deep Learning Specialization offered by ia.deeplearning on Coursera](https://www.coursera.org/specializations/deep-learning) -, having reinforced some bases of neural networks previously taught in my bachelor course, as well as broaden the knowledge about them, with emphasis on the gradient descent algorithm and its variants, model optimization methodologies and structuring of machine learning projects. 
