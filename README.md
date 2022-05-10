@@ -17,6 +17,8 @@ As more projects are developed, they'll be added to this repository.
 1. CS50 - Introduction to Computer Science || [My repository](https://github.com/marianamourao-37/Harvard-CS50-Projects)
 2. Deep Learning Specialization || [My repository](https://github.com/marianamourao-37/Deep-Learning-ia.deeplearning-Specialization)
 3. Planning, Learning and Intelligent Decision Making Course || [My repository](https://github.com/marianamourao-37/Reinforcement-Learning-Course)
+4. Processing Big Data || [My repository](https://github.com/marianamourao-37/Processing-Big-Data)
+
 
 # Projects
 
