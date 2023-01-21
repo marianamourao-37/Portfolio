@@ -19,7 +19,7 @@ As more projects are developed, they'll be added to this repository.
 3. Planning, Learning and Intelligent Decision Making || [My repository](https://github.com/marianamourao-37/Reinforcement-Learning-Course)
 4. Processing Big Data || [My repository](https://github.com/marianamourao-37/Processing-Big-Data)
 5. Machine Learning || [My repository](https://github.com/marianamourao-37/Machine-Learning)
-
+6. Image Processing and Vision || [My repository](https://github.com/marianamourao-37/Image-Processing-and-Vision)
 # Projects
 
 1. [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/marianamourao-37/Data-Science-Portfolio/blob/master/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)
