@@ -1,4 +1,4 @@
-# Data-Science-Portfolio
+# Portfolio
 
 Recently, I've developed a great interest in Data Science, mostly ambitioning to integrate projects directed to Health, having myself a Bachelor's degree in 
 Biomedical Engineering. 
