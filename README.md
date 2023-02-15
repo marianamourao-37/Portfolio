@@ -16,7 +16,7 @@ As more projects are developed, they'll be added to this repository.
 3. Planning, Learning and Intelligent Decision Making || [My repository](https://github.com/marianamourao-37/Reinforcement-Learning-Course)
 4. Processing Big Data || [My repository](https://github.com/marianamourao-37/Processing-Big-Data)
 5. Machine Learning || [My repository](https://github.com/marianamourao-37/Machine-Learning)
-6. Computer Vision|| [My repository](https://github.com/marianamourao-37/Image-Processing-and-Vision)
+6. Computer Vision || [My repository](https://github.com/marianamourao-37/Image-Processing-and-Vision)
 
 # Other Courses 
 1. Biosignals and Biomedical Instrumentation || [My repository](https://github.com/marianamourao-37/Biosignals-and-Biomedical-Instrumentation)
