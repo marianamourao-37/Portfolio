@@ -12,10 +12,11 @@ I continue to expand my portfolio with new projects that reflect my interest in 
 
 1. CS50 - Introduction to Computer Science || [My repository](https://github.com/marianamourao-37/Harvard-CS50-Projects)
 2. Deep Learning Specialization || [My repository](https://github.com/marianamourao-37/Deep-Learning-ia.deeplearning-Specialization)
-3. Planning, Learning and Intelligent Decision Making || [My repository](https://github.com/marianamourao-37/Reinforcement-Learning-Course)
-4. Processing Big Data || [My repository](https://github.com/marianamourao-37/Processing-Big-Data)
-5. Machine Learning || [My repository](https://github.com/marianamourao-37/Machine-Learning)
-6. Computer Vision || [My repository](https://github.com/marianamourao-37/Image-Processing-and-Vision)
+3. Biomedical Signal and Image Processing || [My repository](https://github.com/marianamourao-37/Biomedical-Signal-and-Image-Processing-)
+4. Planning, Learning and Intelligent Decision Making || [My repository](https://github.com/marianamourao-37/Reinforcement-Learning-Course)
+5. Processing Big Data || [My repository](https://github.com/marianamourao-37/Processing-Big-Data)
+6. Machine Learning || [My repository](https://github.com/marianamourao-37/Machine-Learning)
+7. Computer Vision || [My repository](https://github.com/marianamourao-37/Image-Processing-and-Vision)
 
 # Other Courses 
 1. Biosignals and Biomedical Instrumentation || [My repository](https://github.com/marianamourao-37/Biosignals-and-Biomedical-Instrumentation)
