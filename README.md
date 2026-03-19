@@ -26,7 +26,7 @@ Overall, I am passionate about using data science to drive real-world solutions 
 
 
 
-# Projects
+# Other Projects
 
 1. [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/marianamourao-37/Data-Science-Portfolio/blob/master/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)
 
