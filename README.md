@@ -1,12 +1,12 @@
 # Portfolio
 
-Recently, I have developed a strong interest in data science, particularly in its application to health-related projects. With my Bachelor's degree in Biomedical Engineering, I am excited to combine my domain knowledge with the latest data science tools and methodologies.
+I am passionate about using data science and machine learning to drive real-world solutions in biomedical engineering. With my background in Biomedical Engineering, I aim to contribute to the development of computational systems that can meaningfully impact healthcare.
 
-To gain practical experience in data science, I have been taking online courses and participating in guided projects. I started with the [2020 CS50 Introduction to Computer Science course](https://cs50.harvard.edu/x/2020/) offered by Harvard University, which helped me reinforce my programming fundamentals. Next, I completed the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by deeplearning.ai on Coursera. This course expanded my knowledge of neural networks, with a focus on gradient descent algorithms, model optimization, and machine learning project structuring.
+To strengthen my technical foundation, I have completed online training, including the [2020 CS50 Introduction to Computer Science course](https://cs50.harvard.edu/x/2020/) offered by Harvard University and the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by deeplearning.ai. These experiences helped consolidate my programming skills and deepen my understanding of neural networks, optimization algorithms and machine learning project structuring.
 
-While these courses were informative, I wanted a more hands-on experience to develop my critical and creative thinking skills. That's why I turned to the [DataQuest platform](https://www.dataquest.io/), which offered guided projects that allowed for more active participation. I completed a project called [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/marianamourao-37/Data-Science-Portfolio/blob/master/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb) and I plan to add more projects to my portfolio as I continue my data science journey.
+Seeking more active and project-based learning to develop my critical thinking skills, I turned to the [DataQuest platform](https://www.dataquest.io/), completing a project called [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/marianamourao-37/Data-Science-Portfolio/blob/master/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb). 
 
-Overall, I am passionate about using data science to drive real-world solutions in the field of biomedical engineering. Please take a look at my portfolio repository for examples of my work.
+I continue to expand my portfolio with new projects that reflect my interest in applying computational methods to biomedical and health-related problems. This portfolio showcases my work and ongoing learning in this direction.
 
 # My Path 
 
@@ -23,8 +23,6 @@ Overall, I am passionate about using data science to drive real-world solutions 
 3. Signals and Systems in Bioengineering || [My repository](https://github.com/marianamourao-37/Signals-and-Systems-in-Bioengineering)
 4. Biomechanics || [My repository](https://github.com/marianamourao-37/Biomechanics)
 5. Medical Imaging || [My repository](https://github.com/marianamourao-37/Medical-Imaging)
-
-
 
 # Other Projects
 
